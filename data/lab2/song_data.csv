@@ -1,0 +1,566 @@
+year,country,artist_name,song_name,language,style,gender,main_singers,key,BPM,energy,danceability,happiness,loudness,acousticness,instrumentalness,liveness,speechiness,final_place
+2023,Norway,Alessandra,Queen of Kings,English,Pop,Female,1,E Minor,110,36,64,23,10 dB,58,0,10,3,5
+2023,Malta,The Busker,Dance (Our Own Party),English,Pop,Male,1,F Minor,103,78,70,82,6 dB,2,0,18,4,
+2023,Serbia,Luke Black,Samo mi se spava,"Serbian, English",Pop,Male,1,A Major,103,70,56,11,10 dB,4,2,32,5,24
+2023,Latvia,Sudden Lights,Aija,English,Rock,Male,1,A Minor,160,55,56,40,8 dB,5,0,8,7,
+2023,Portugal,Mimicat,Ai coraçăo,Portuguese,Pop,Female,1,Fs Minor,145,63,66,77,8 dB,31,0,16,5,23
+2023,Ireland,Wild Youth,We Are One,English,Rock,Male,1,D Major,112,66,47,12,7 dB,6,0,9,3,
+2023,Croatia,Let 3,Mama ŠC!,Croatian,Pop,Male,1,C Major,135,78,60,63,7 dB,16,0,21,9,13
+2023,Switzerland,Remo Forrer,Watergun,English,Ballad,Male,1,Ab Minor,130,87,68,39,5 dB,48,0,18,7,20
+2023,Israel,Noa Kirel,Unicorn,English,Pop,Female,1,Fs Minor,130,87,68,28,5 dB,2,0,32,10,3
+2023,Moldova,Pasha Parfeni,Soarele si luna,Romanian,Traditional,Male,1,Ab Major,125,86,62,34,5 dB,36,0,18,14,18
+2023,Sweden,Loreen,Tattoo,English,Pop,Female,1,Eb Minor,150,78,55,30,6 dB,24,0,12,8,1
+2023,Azerbaijan,TuralTuranX,Tell Me More,English,Pop,Male,2,D Major,96,75,71,42,8 dB,2,0,29,4,
+2023,Czech Republic,Vesna,My Sister's Crown,"English, Ukrainian, Czech, Bulgarian",Pop,Female,6,E Minor,150,92,55,51,6 dB,5,0,37,16,10
+2023,Netherlands,Mia Nicolai and Dion Cooper,Burning Daylight,English,Ballad,Mix,2,Eb Major,71,43,28,29,9 dB,58,0,11,4,
+2023,Finland,Käärijä,Cha Cha Cha,Finnish,Pop,Male,1,D Major,155,79,72,74,6 dB,0,0,11,4,2
+2023,Denmark,Reiley,Breaking My Heart,English,Pop,Male,1,D Major,194,75,59,57,5 dB,5,0,10,36,
+2023,Armenia,Brunette,Future Lover,"English, Armenian",Ballad,Female,1,D Minor,103,44,56,24,11 dB,89,0,10,4,14
+2023,Romania,Theodor Andrei,D.G.T. (Off and On),"Romanian, English",Pop,Male,1,A Minor,110,75,68,84,6 dB,22,0,25,3,
+2023,Estonia,Alika,Bridges,English,Ballad,Female,1,C Minor,140,47,59,33,5 dB,84,0,14,3,8
+2023,Belgium,Gustaph,Because of You,English,Pop,Male,1,C Minor,127,91,74,7,6 dB,0,82,10,4,7
+2023,Cyprus,Andrew Lambrou,Break a Broken Heart,English,Ballad,Male,1,Eb Minor,130,74,43,43,4 dB,6,0,19,4,12
+2023,Iceland,Diljá,Power,English,Pop,Female,1,F Minor,160,73,41,27,5 dB,1,0,20,5,
+2023,Greece,Victor Vernicos,What They Say,English,Pop,Male,1,C Major,154,55,40,27,6 dB,31,0,28,11,
+2023,Poland,Blanka,Solo,English,Pop,Female,1,B Minor,99,64,90,72,7 dB,18,0,12,4,19
+2023,Slovenia,Joker Out,Carpe Diem,Slovene,Rock,Male,1,Cs Minor,132,66,69,56,9 dB,1,0,10,4,21
+2023,Georgia,Iru,Echo,English,Ballad,Female,1,G Minor,145,91,59,37,4 dB,11,2,30,14,
+2023,San Marino,Piqued Jacks,Like an Animal,English,Rock,Male,1,C Major,128,79,54,64,6 dB,0,0,21,4,
+2023,Austria,Teya and Salena,Who the Hell Is Edgar?,English,Pop,Female,2,B Minor,146,64,69,51,8 dB,2,0,10,6,15
+2023,Albania,Albina and Familja Kelmendi,Duje,Albanian,Traditional,Female,1,D Minor,110,80,64,43,6 dB,5,0,13,19,22
+2023,Lithuania,Monika Linkyte,Stay,English,Ballad,Female,1,B Major,98,55,40,18,7 dB,3,0,8,4,11
+2023,Australia,Voyager,Promise,English,Rock,Male,1,C Major,122,70,62,33,8 dB,0,0,10,7,9
+2023,France,La Zarra,Évidemment,French,Ballad,Female,1,B Major,120,75,73,23,5 dB,12,0,8,7,16
+2023,Spain,Blanca Paloma,Eaea,Spanish,Traditional,Female,1,F Minor,116,73,61,26,4 dB,7,0,39,4,17
+2023,Italy,Marco Mengoni,Due vite,Italian,Ballad,Male,1,D Major,117,54,64,13,6 dB,40,0,9,3,4
+2023,Ukraine,Tvorchi,Heart of Steel,"English, Ukrainian",Pop,Male,1,Ab Minor,78,52,53,34,8 dB,1,0,9,5,6
+2023,Germany,Lord of the Lost,Blood & Glitter,English,Rock,Male,1,A Minor,139,80,64,47,4 dB,1,0,5,8,26
+2023,United Kingdom,Mae Muller,I Wrote a Song,English,Pop,Female,1,A Minor,125,89,71,86,4 dB,4,0,8,5,25
+2022,Albania,Ronela Hajati,Sekret,"Albanian, English",Pop,Female,1,F Minor,100,70,76,45,6 dB,5,0,52,5,
+2022,Latvia,Citi Zeni,Eat Your Salad,English,Pop,Male,1,B Minor,115,69,75,59,8 dB,1,0,34,17,
+2022,Lithuania,Monika Liu,Sentimentai,Lithuanian,Ballad,Female,1,C Major,93,56,68,50,8 dB,9,0,31,3,14
+2022,Switzerland,Marius Bear,Boys Do Cry,English,Ballad,Male,1,F Major,116,18,42,39,11 dB,87,0,11,4,17
+2022,Slovenia,LPS,Disko,Slovene,Pop,Male,1,E Minor,120,61,68,60,6 dB,0,0,5,3,
+2022,Ukraine,Kalush Orchestra,Stefania,Ukrainian,Traditional,Male,1,D Major,105,82,83,32,5 dB,14,0,12,4,1
+2022,Bulgaria,Intelligent Music Project,Intention,English,Rock,Male,1,D Major,80,84,52,72,8 dB,3,2,24,3,
+2022,Netherlands,S10,De diepte,Dutch,Ballad,Female,1,D Minor,87,48,32,15,6 dB,39,0,14,3,11
+2022,Moldova,Zdob si Zdub and Advahov Brothers,Trenuletul,"Romanian, English",Traditional,Male,1,C Major,142,88,70,96,3 dB,41,0,32,14,7
+2022,Portugal,Maro,"Saudade, saudade","English, Portuguese",Ballad,Female,6,Bb Minor,83,34,64,38,11 dB,68,0,11,4,9
+2022,Croatia,Mia Dimsic,Guilty Pleasure,"English, Croatian",Ballad,Female,1,F Major,84,59,53,51,7 dB,12,0,14,6,
+2022,Denmark,Reddi,The Show,English,Rock,Female,1,C Major,90,80,31,21,5 dB,2,0,37,6,
+2022,Austria,Lumix feat. Pia Maria,Halo,English,Dance,Female,1,Ab Major,150,91,57,69,5 dB,0,0,53,4,
+2022,Iceland,Systur,Meo aekkandi sol,Icelandic,Traditional,Female,3,D Minor,100,52,58,35,12 dB,58,4,7,3,23
+2022,Greece,Amanda Georgiadi Tenfjord,Die Together,English,Ballad,Female,1,F Major,150,37,48,20,8 dB,12,0,13,7,8
+2022,Norway,Subwoolfer,Give That Wolf a Banana,English,Pop,Male,2,G Minor,124,53,74,55,10 dB,20,0,9,4,10
+2022,Armenia,Rosa Linn,Snap,English,Ballad,Female,1,C Major,170,64,56,53,8 dB,11,0,45,6,20
+2022,Finland,The Rasmus,Jezebel,English,Rock,Male,1,B Minor,116,87,50,49,4 dB,0,0,8,4,21
+2022,Israel,Michael Ben David,I.M,English,Pop,Male,1,Ab Minor,120,82,70,45,7 dB,1,0,13,6,
+2022,Serbia,Konstrakta,In corpore sano,"Serbian, Latin",Traditional,Female,1,C Major,136,71,92,63,7 dB,1,0,17,8,5
+2022,Azerbaijan,Nadir Rustamli,Fade to Black,English,Ballad,Male,1,A Minor,79,30,34,30,10 dB,19,0,14,6,16
+2022,Georgia,Circus Mircus,Lock Me In,English,Rock,Male,1,D Major,107,76,79,84,9 dB,0,0,30,4,
+2022,Malta,Emma Muscat,I Am What I Am,English,Pop,Female,1,G Major,98,71,56,38,5 dB,4,0,9,3,
+2022,San Marino,Achille Lauro,Stripper,"Italian, English",Rock,Male,1,A Major,140,80,60,55,6 dB,0,0,8,10,
+2022,Australia,Sheldon Riley,Not the Same,English,Ballad,Male,1,Bb Minor,128,43,36,38,10 dB,66,0,14,4,15
+2022,Cyprus,Andromache,Ela,"English, Greek",Pop,Female,1,Eb Minor,98,63,66,65,7 dB,24,0,6,9,
+2022,Ireland,Brooke,That's Rich,English,Pop,Female,1,A Major,122,60,68,56,4 dB,0,0,34,3,
+2022,North Macedonia,Andrea,Circles,English,Ballad,Female,1,Cs Minor,144,71,54,22,5 dB,48,0,17,3,
+2022,Estonia,Stefan,Hope,English,Pop,Male,1,Bb Minor,123,78,52,55,5 dB,19,0,10,4,13
+2022,Romania,WRS,Llamame,"English, Spanish",Pop,Male,1,F Minor,120,76,76,66,6 dB,6,0,15,13,18
+2022,Poland,Ochman,River,English,Ballad,Male,1,Ab Major,140,67,51,33,5 dB,56,0,12,4,12
+2022,Montenegro,Vladana,Breathe,"English, Italian",Ballad,Female,1,G Minor,77,46,43,20,7 dB,55,0,10,3,
+2022,Belgium,Jeremie Makiese,Miss You,English,Pop,Male,1,Fs Minor,144,53,63,28,6 dB,24,0,13,5,19
+2022,Sweden,Cornelia Jakobs,Hold Me Closer,English,Ballad,Female,1,Fs Major,97,62,49,17,8 dB,11,0,14,4,4
+2022,Czech Republic,We Are Domi,Lights Off,English,Dance,Female,1,A Minor,126,79,59,52,6 dB,15,0,21,11,22
+2022,Italy,Mahmood and Blanco,Brividi,Italian,Ballad,Male,2,G Major,123,61,52,34,4 dB,45,0,25,3,6
+2022,Spain,Chanel,SloMo,"Spanish, English",Pop,Female,1,Cs Minor,105,81,73,59,3 dB,13,0,9,6,3
+2022,Germany,Malik Harris,Rockstars,English,Ballad,Male,1,G Major,81,64,65,52,6 dB,45,0,38,23,25
+2022,United Kingdom,Sam Ryder,Space Man,English,Pop,Male,1,B Major,80,83,47,33,2 dB,18,0,10,5,2
+2022,France,Alvan and Ahez,Fulenn,Breton,Traditional,Mix,4,Fs Major,120,84,74,48,7 dB,1,0,24,12,24
+2021,Lithuania,The Roop,Discoteque,English,Dance,Male,1,F Major,115,80,83,63,6 dB,5,0,13,6,8
+2021,Slovenia,Ana Soklic,Amen,English,Ballad,Female,1,Ab Minor,81,40,45,21,10 dB,48,0,15,5,
+2021,Russia,Manizha,Russian Woman,"Russian, English",Traditional,Female,1,E Minor,102,70,89,65,7 dB,20,0,7,19,9
+2021,Sweden,Tusse,Voices,English,Pop,Male,1,Bb Minor,90,76,50,40,5 dB,0,0,13,4,14
+2021,Australia,Montaigne,Technicolour,English,Pop,Female,1,A Minor,119,57,67,27,6 dB,7,0,27,3,
+2021,North Macedonia,Vasil,Here I Stand,English,Ballad,Male,1,G Major,138,20,32,13,11 dB,51,0,32,4,
+2021,Ireland,Lesley Roy,Maps,English,Pop,Female,1,G Major,143,83,54,55,7 dB,2,0,36,4,
+2021,Cyprus,Elena Tsagrinou,El Diablo,English,Pop,Female,1,A Minor,114,66,66,62,8 dB,0,0,84,13,16
+2021,Norway,Tix,Fallen Angel,English,Pop,Male,1,Cs Major,93,65,54,28,5 dB,7,0,11,3,18
+2021,Croatia,Albina,Tick-Tock,"English, Croatian",Pop,Female,1,E Minor,126,76,77,76,5 dB,5,0,34,4,
+2021,Belgium,Hooverphonic,The Wrong Place,English,Ballad,Female,1,F Major,80,73,49,25,4 dB,5,0,16,4,19
+2021,Israel,Eden Alene,Set Me Free,English,Pop,Female,1,Cs Minor,107,66,75,47,7 dB,28,0,10,8,17
+2021,Romania,Roxen,Amnesia,English,Ballad,Female,1,Bb Minor,120,69,58,25,6 dB,13,0,16,14,
+2021,Azerbaijan,Efendi,Mata Hari,English,Pop,Female,1,E Minor,100,68,71,46,6 dB,1,0,26,4,20
+2021,Ukraine,Go_A,Shum,Ukrainian,Traditional,Female,1,E Major,118,74,53,50,5 dB,5,0,11,6,5
+2021,Malta,Destiny,Je me casse,English,Pop,Female,1,Ab Minor,112,87,76,78,4 dB,15,0,28,11,7
+2021,San Marino,Senhit,Adrenalina,English,Dance,Mix,2,Bb Minor,104,89,67,53,6 dB,0,0,39,8,
+2021,Estonia,Uku Suviste,The Lucky One,English,Ballad,Male,1,Ab Minor,176,64,40,41,9 dB,4,0,9,7,
+2021,Czech Republic,Benny Cristo,Omaga,English,Ballad,Male,1,Fs Major,122,87,72,89,6 dB,11,0,34,3,
+2021,Greece,Stefania,Last Dance,English,Pop,Female,1,D Minor,147,91,53,39,5 dB,2,0,7,4,10
+2021,Austria,Vincent Bueno,Amen,English,Ballad,Male,1,Cs Major,80,38,44,8,10 dB,1,0,8,4,
+2021,Poland,Rafal,The Ride,English,Pop,Male,1,B Minor,132,77,69,93,7 dB,40,0,25,3,
+2021,Moldova,Natalia Gordienko,Sugar,English,Pop,Female,1,B Minor,120,76,69,51,7 dB,0,1,13,5,13
+2021,Iceland,Dadi og Gagnamagnio,10 Years,English,Pop,Male,1,D Minor,123,62,80,44,7 dB,1,0,9,4,
+2021,Serbia,Hurricane,Loco Loco,Serbian,Pop,Female,3,C Major,105,92,65,60,4 dB,17,0,16,12,15
+2021,Georgia,Tornike Kipiani,You,English,Ballad,Male,1,C Major,134,37,50,12,8 dB,24,4,19,2,
+2021,Albania,Anxhela Peristeri,Karma,Albanian,Ballad,Female,1,G Minor,150,63,52,19,10 dB,0,0,13,4,21
+2021,Portugal,The Black Mamba,Love Is on My Side,English,Traditional,Male,1,E Major,66,42,28,24,7 dB,34,0,20,3,12
+2021,Bulgaria,Victoria,Growing Up Is Getting Old,English,Ballad,Female,1,G Major,93,18,52,25,8 dB,69,0,9,3,11
+2021,Finland,Blind Channel,Dark Side,English,Rock,Male,2,G Major,98,96,57,44,4 dB,0,0,27,11,6
+2021,Latvia,Samanta Tina,The Moon Is Rising,English,Ballad,Female,1,Bb Minor,150,63,66,33,8 dB,4,0,14,14,
+2021,Switzerland,Gjon's Tears,Tout l'univers,French,Ballad,Male,1,A Minor,123,37,52,19,9 dB,83,0,15,3,3
+2021,Denmark,Fyr og Flamme,Ove os pa hinanden,Danish,Pop,Male,2,C Major,124,87,68,96,6 dB,1,0,34,3,
+2021,Netherlands,Jeangu Macrooy,Birth of a New Age,"English, Sranan Tongo",Ballad,Male,1,C Minor,95,72,72,54,5 dB,48,0,23,6,11
+2021,Spain,Blas Canto,Voy a quedarme,Spanish,Ballad,Male,1,Eb Major,76,72,52,36,5 dB,21,0,8,5,24
+2021,United Kingdom,James Newman,Embers,English,Pop,Male,1,Fs Major,126,82,68,72,5 dB,0,0,11,6,26
+2021,Germany,Jendrik,I Don't Feel Hate,English,Pop,Male,1,F Minor,114,84,83,75,5 dB,19,0,3,21,25
+2021,France,Barbara Pravi,Voila,French,Ballad,Female,1,D Minor,135,34,45,60,9 dB,77,0,30,6,2
+2021,Italy,Maneskin,Zitti e buoni,Italian,Rock,Male,1,E Minor,103,94,63,64,3 dB,0,0,42,7,1
+2019,Cyprus,Tamta,Replay,English,Dance,Female,1,B Minor,102,68,71,50,5 dB,5,0,6,7,13
+2019,Montenegro,D mol,Heaven,English,Pop,Mix,6,D Major,92,73,53,47,8 dB,21,0,31,5,
+2019,Finland,Darude feat. Sebastian Rejman,Look Away,English,Dance,Male,1,B Minor,126,89,50,48,4 dB,1,0,15,5,
+2019,Poland,Tulia,Fire of Love,"Polish, English",Traditional,Female,4,A Major,96,78,59,78,4 dB,2,21,64,3,
+2019,Slovenia,Zala Kralj & Gasper santl,Sebi,Slovene,Ballad,Mix,2,G Minor,108,65,78,74,7 dB,18,2,16,4,15
+2019,Czech Republic,Lake Malawi,Friend of a Friend,English,Pop,Male,1,A Minor,106,74,70,41,5 dB,27,0,7,6,11
+2019,Hungary,Joci Papai,Az en apam,Hungarian,Ballad,Male,1,Eb Minor,96,45,63,33,8 dB,55,0,10,4,
+2019,Belarus,ZENA,Like It,English,Dance,Female,1,G Minor,105,80,71,35,8 dB,29,0,20,5,24
+2019,Serbia,Nevena Bozovic,Kruna,Serbian,Ballad,Female,1,Ab Minor,158,48,20,16,6 dB,21,0,13,3,18
+2019,Belgium,Eliot,Wake Up,English,Ballad,Male,1,G Minor,145,20,37,23,12 dB,89,0,9,4,
+2019,Georgia,Oto Nemsadze,Keep on Going,Georgian,Traditional,Male,1,B Minor,120,70,32,30,5 dB,49,0,26,4,
+2019,Australia,Kate Miller-Heidke,Zero Gravity,English,Opera,Female,1,Fs Major,132,54,46,26,2 dB,57,0,41,4,9
+2019,Iceland,Hatari,Hatrio mun sigra,Icelandic,Dance,Mix,2,E Minor,110,67,57,48,10 dB,0,0,9,8,10
+2019,Estonia,Victor Crone,Storm,English,Pop,Male,1,D Major,128,59,62,29,5 dB,5,0,8,3,20
+2019,Portugal,Conan Osiris,TelemOveis,Portuguese,Traditional,Male,1,G Major,123,37,71,24,12 dB,62,3,8,5,
+2019,Greece,Katerine Duska,Better Love,English,Pop,Female,1,Ab Major,88,69,37,35,5 dB,1,0,9,6,21
+2019,San Marino,Serhat,Say Na Na Na,English,Dance,Male,1,Db Minor,118,92,68,74,5 dB,0,0,36,8,19
+2019,Armenia,Srbuk,Walking Out,English,Pop,Female,1,Db Major,130,57,43,17,8 dB,0,23,10,4,
+2019,Ireland,Sarah McTernan,22,English,Pop,Female,1,C Major,125,45,71,67,9 dB,12,0,65,5,
+2019,Moldova,Anna Odobescu,Stay,English,Ballad,Female,1,C Minor,156,62,42,24,5 dB,29,0,20,3,
+2019,Switzerland,Luca Hanni,She Got Me,English,Dance,Male,1,B Minor,97,75,66,48,6 dB,6,0,8,5,4
+2019,Latvia,Carousel,That Night,English,Pop,Female,1,G Minor,93,46,67,51,10 dB,68,0,9,4,
+2019,Romania,Ester Peony,On a Sunday,English,Pop,Female,1,C Minor,72,49,35,33,6 dB,13,0,11,6,
+2019,Denmark,Leonora,Love Is Forever,"English, French",Pop,Female,1,Db Major,136,42,73,79,5 dB,58,0,7,3,12
+2019,Sweden,John Lundvik,Too Late for Love,English,Ballad,Male,1,C Major,104,75,40,42,4 dB,20,0,7,7,5
+2019,Austria,PAENDA,Limits,English,Ballad,Female,1,C Major,131,36,46,18,12 dB,81,0,11,6,
+2019,Croatia,Roko,The Dream,"English, Croatian",Ballad,Male,1,F Minor,114,60,61,24,10 dB,49,61,34,3,
+2019,Malta,Michela,Chameleon,English,Pop,Female,1,Bb Minor,98,70,71,85,4 dB,28,0,17,7,14
+2019,Lithuania,Jurij Veklenko,Run with the Lions,English,Pop,Male,1,C Major,158,64,60,41,7 dB,1,39,8,5,
+2019,Russia,Sergey Lazarev,Scream,English,Ballad,Male,1,Bb Major,92,52,33,26,7 dB,9,0,8,4,3
+2019,Albania,Jonida Maliqi,Ktheju tokes,Albanian,Traditional,Female,1,Db Major,117,70,57,58,6 dB,2,0,21,5,17
+2019,Norway,KEiiNO,Spirit in the Sky,English,Dance,Mix,3,A Minor,122,75,61,36,6 dB,14,0,11,6,6
+2019,Netherlands,Duncan Laurence,Arcade,English,Ballad,Male,1,A Minor,72,33,45,27,13 dB,82,0,14,4,1
+2019,North Macedonia,Tamara Todevska,Proud,English,Ballad,Female,1,C Minor,92,42,36,28,6 dB,82,0,14,3,7
+2019,Azerbaijan,Chingiz,Truth,English,Pop,Male,1,Ab Minor,101,62,63,73,7 dB,5,0,10,4,8
+2019,Germany,S!sters,Sister,English,Ballad,Female,2,C Major,142,45,56,22,9 dB,39,0,7,4,25
+2019,Israel,Kobi Marimi,Home,English,Ballad,Male,1,Ab Major,110,42,55,23,7 dB,70,0,14,4,23
+2019,United Kingdom,Michael Rice,Bigger than Us,English,Ballad,Male,1,C Major,82,55,52,57,8 dB,1,0,9,3,26
+2019,France,Bilal Hassani,Roi,"French, English",Pop,Female,1,Fs Minor,140,67,55,54,7 dB,21,0,12,4,16
+2019,Italy,Mahmood,Soldi,Italian,Pop,Male,1,Eb Minor,95,59,73,35,10 dB,4,0,31,5,2
+2019,Spain,Miki,La Venda,Spanish,Pop,Male,1,C Minor,148,81,62,80,5 dB,8,0,33,6,22
+2018,Azerbaijan,Aisel,X My Heart,English,Pop,Female,1,Ab Major,120,77,52,27,10 dB,0,80,14,3,
+2018,Iceland,Ari Olafsson,Our Choice,English,Ballad,Male,1,B Major,130,49,48,7,10 dB,0,92,31,3,
+2018,Albania,Eugent Bushpepa,Mall,Albanian,Rock,Male,4,E Major,95,76,39,41,6 dB,0,79,12,3,11
+2018,Belgium,Sennek,A Matter of Time,English,Pop,Female,1,C Minor,88,59,66,59,6 dB,12,0,20,3,
+2018,Czech Republic,Mikolas Josef,Lie to Me,English,Pop,Male,1,Fs Minor,106,70,83,64,6 dB,0,0,36,12,6
+2018,Lithuania,Ieva Zasimauskaite,When We're Old,English,Ballad,Female,1,Bb Major,90,19,34,4,15 dB,87,85,16,4,12
+2018,Israel,Netta,Toy,English,Pop,Female,1,Eb Minor,130,71,79,80,5 dB,7,0,24,7,1
+2018,Belarus,Alekseev,Forever,English,Ballad,Male,1,A Minor,117,59,38,41,5 dB,60,0,20,4,
+2018,Estonia,Elina Nechayeva,La forza,Italian,Opera,Female,1,D Minor,94,60,23,26,8 dB,50,0,27,4,8
+2018,Bulgaria,Equinox,Bones,English,Pop,Mix,5,Fs Minor,88,57,51,43,9 dB,2,39,11,4,14
+2018,North Macedonia,Eye Cue,Lost and Found,English,Pop,Female,1,Ab Major,120,76,75,56,3 dB,7,6,11,4,
+2018,Croatia,Franka,Crazy,English,Pop,Female,1,A Minor,98,41,67,37,8 dB,36,0,63,3,
+2018,Austria,Cesar Sampson,Nobody but You,English,Pop,Male,1,B Minor,85,51,50,43,6 dB,9,0,36,3,3
+2018,Greece,Yianna Terzi,Oniro mou,Greek,Pop,Female,1,Db Minor,150,66,42,18,7 dB,2,0,12,4,
+2018,Finland,Saara Aalto,Monsters,English,Pop,Female,1,C Minor,122,73,58,27,4 dB,1,0,6,4,25
+2018,Armenia,Sevak Khanagyan,Qami,Armenian,Pop,Male,1,D Minor,75,50,34,23,8 dB,18,0,27,4,
+2018,Switzerland,ZiBBZ,Stones,English,Pop,Female,1,A Minor,84,81,49,56,6 dB,4,0,18,5,
+2018,Ireland,Ryan O'Shaughnessy,Together,English,Traditional,Male,1,F Major,94,32,70,28,13 dB,73,0,12,4,16
+2018,Cyprus,Eleni Foureira,Fuego,English,Pop,Female,1,B Minor,101,74,59,52,5 dB,6,0,58,10,2
+2018,Norway,Alexander Rybak,That's How You Write a Song,English,Pop,Male,1,Bb Minor,104,61,74,96,10 dB,1,0,6,5,15
+2018,Romania,The Humans,Goodbye,English,Pop,Female,1,E Major,101,46,47,10,9 dB,1,84,15,3,
+2018,Serbia,Sanja Ilic & Balkanika,Nova deca,Serbian,Traditional,Mix,2,B Minor,125,87,38,30,4 dB,8,0,30,11,19
+2018,San Marino,Jessika feat. Jenifer Brening,Who We Are,English,Pop,Female,1,Ab Minor,127,75,67,61,6 dB,5,0,16,4,
+2018,Denmark,Rasmussen,Higher Ground,English,Traditional,Male,1,B Minor,82,85,47,42,5 dB,2,0,13,4,9
+2018,Russia,Julia Samoylova,I Won't Break,English,Pop,Female,1,Ab Minor,91,80,52,11,9 dB,0,81,11,3,
+2018,Moldova,DoReDoS,My Lucky Day,English,Pop,Mix,3,B Minor,122,87,74,82,5 dB,1,0,32,7,10
+2018,Netherlands,Waylon,Outlaw in 'Em,English,Rock,Male,1,B Minor,87,88,58,73,6 dB,6,0,34,5,18
+2018,Australia,Jessica Mauboy,We Got Love,English,Pop,Female,1,G Major,114,82,61,30,4 dB,0,0,23,7,20
+2018,Georgia,Ethno-Jazz Band Iriao,For You,Georgian,Pop,Male,3,A Minor,121,56,27,21,6 dB,55,0,21,4,
+2018,Poland,Gromee feat. Lukas Meijer,Light Me Up,English,Dance,Male,1,Bb Major,123,74,55,46,6 dB,11,0,14,5,
+2018,Malta,Christabelle,Taboo,English,Pop,Female,1,G Major,122,62,64,15,6 dB,20,0,63,4,
+2018,Hungary,AWS,Viszlat nyar,Hungarian,Rock,Male,1,Eb Minor,164,94,33,34,3 dB,0,0,19,6,21
+2018,Latvia,Laura Rizzotto,Funny Girl,English,Pop,Female,1,C Major,118,52,69,10,6 dB,40,0,13,5,
+2018,Sweden,Benjamin Ingrosso,Dance You Off,English,Pop,Male,1,Ab Major,109,69,73,76,5 dB,10,0,11,7,7
+2018,Montenegro,Vanja Radovanovic,Inje,Montenegrin,Rock,Male,1,Fs Minor,79,45,49,34,6 dB,39,0,55,3,
+2018,Slovenia,Lea Sirk,"Hvala, ne!",Slovene,Pop,Female,1,Db Major,140,60,81,36,8 dB,1,0,10,5,22
+2018,Ukraine,Melovin,Under the Ladder,English,Dance,Male,1,Bb Minor,140,74,53,33,8 dB,0,92,10,3,17
+2018,Portugal,Claudia Pascoal,O jardim,Portuguese,Pop,Female,1,Bb Major,120,31,50,10,10 dB,84,0,28,4,26
+2018,United Kingdom,SuRie,Storm,English,Pop,Female,1,Bb Major,116,72,65,38,7 dB,2,0,22,4,24
+2018,Germany,Michael Schulte,You Let Me Walk Alone,English,Pop,Male,1,B Major,75,28,45,42,10 dB,78,0,10,3,4
+2018,France,Madame Monsieur,Mercy,French,Pop,Female,1,E Minor,97,54,65,17,7 dB,7,0,58,5,13
+2018,Italy,Ermal Meta & Fabrizio Moro,Non mi avete fatto niente,Italian,Pop,Male,2,Fs Major,90,88,57,76,5 dB,34,0,16,5,5
+2018,Spain,Amaia & Alfred,Tu canciOn,Spanish,Pop,Mix,2,C Major,120,31,48,26,8 dB,87,0,10,3,23
+2017,Sweden,Robin Bengtsson,I Can't Go On,English,Pop,Male,1,E Minor,109,67,74,46,5 dB,3,0,14,5,5
+2017,Georgia,Tamara Gachechiladze,Keep the Faith,English,Pop,Female,1,G Minor,132,67,27,19,6 dB,15,0,10,6,
+2017,Australia,Isaiah,Don't Come Easy,English,Pop,Male,1,B Minor,79,63,33,55,4 dB,26,0,27,5,9
+2017,Albania,Lindita,World,English,Pop,Female,1,C Major,85,77,42,30,5 dB,14,0,29,4,
+2017,Belgium,Blanche,City Lights,English,Pop,Female,1,C Minor,130,45,61,15,9 dB,24,0,21,3,4
+2017,Montenegro,Slavko Kalezic,Space,English,Pop,Male,1,A Minor,120,94,58,54,4 dB,1,0,11,9,
+2017,Finland,Norma John,Blackbird,English,Ballad,Female,1,D Major,81,33,28,12,11 dB,85,8,14,3,
+2017,Azerbaijan,Dihaj,Skeletons,English,Pop,Female,1,Fs Minor,91,65,47,30,7 dB,4,0,10,4,14
+2017,Portugal,Salvador Sobral,Amar pelos dois,Portuguese,Ballad,Male,1,F Major,88,10,21,17,18 dB,85,0,26,3,1
+2017,Greece,Demy,This Is Love,English,Pop,Female,1,A Minor,128,68,54,22,8 dB,0,0,11,3,19
+2017,Poland,Kasia Mos,Flashlight,English,Pop,Female,1,D Major,120,68,44,19,6 dB,6,0,37,5,22
+2017,Moldova,Sunstroke Project,"Hey, Mamma!",English,Dance,Male,1,Bb Minor,110,81,83,64,6 dB,24,1,7,11,3
+2017,Iceland,Svala,Paper,English,Pop,Female,1,-,-,-,-,-,,-,-,-,-,
+2017,Czech Republic,Martina Barta,My Turn,English,Pop,Female,1,G Major,86,42,36,16,6 dB,44,0,31,4,
+2017,Cyprus,Hovig,Gravity,English,Pop,Male,1,Bb Minor,75,73,59,72,7 dB,4,0,11,9,21
+2017,Armenia,Artsvik,Fly with Me,English,Pop,Female,1,E Minor,90,80,58,33,5 dB,79,6,8,15,18
+2017,Slovenia,Omar Naber,On My Way,English,Ballad,Male,1,D Major,67,55,42,14,6 dB,30,0,52,4,
+2017,Latvia,Triana Park,Line,English,Pop,Female,1,Ab Minor,126,64,71,36,7 dB,1,0,19,4,
+2017,Serbia,Tijana Bogicevic,In Too Deep,English,Pop,Female,1,-,-,-,-,-,,-,-,-,-,
+2017,Austria,Nathan Trent,Running on Air,English,Pop,Male,1,A Major,90,54,71,54,5 dB,11,0,23,3,16
+2017,North Macedonia,Jana Burceska,Dance Alone,English,Pop,Female,1,-,-,-,-,-,,-,-,-,-,
+2017,Malta,Claudia Faniello,Breathlessly,English,Ballad,Female,1,Db Major,76,48,52,19,6 dB,66,0,9,3,
+2017,Romania,Ilinca ft. Alex Florea,Yodel It!,English,Pop,Mix,2,Bb Major,174,91,45,77,5 dB,1,0,12,15,7
+2017,Netherlands,O'G3NE,Lights and Shadows,English,Pop,Female,3,Fs Major,128,73,41,51,5 dB,22,0,14,8,11
+2017,Hungary,Joci Papai,Origo,Hungarian,Traditional,Male,1,A Minor,108,73,55,45,6 dB,58,0,48,22,8
+2017,Denmark,Anja,Where I Am,English,Pop,Female,1,Bb Minor,91,75,40,65,5 dB,4,0,49,13,20
+2017,Ireland,Brendan Murray,Dying to Try,English,Ballad,Male,1,F Minor,164,48,44,19,7 dB,63,0,11,3,
+2017,San Marino,Valentina Monetta and Jimmie Wilson,Spirit of the Night,English,Pop,Mix,2,G Minor,140,94,71,57,4 dB,8,0,12,1,
+2017,Croatia,Jacques Houdek,My Friend,"English, Italian",Opera,Male,1,C Major,138,65,42,30,6 dB,21,0,17,5,13
+2017,Norway,JOWST,Grab the Moment,English,Pop,Male,1,E Minor,104,61,69,32,7 dB,12,0,9,9,10
+2017,Switzerland,Timebelle,Apollo,English,Pop,Female,1,Bb Major,87,56,61,28,6 dB,11,0,11,9,
+2017,Belarus,Naviband,Story of My Life,Belarusian,Pop,Mix,2,E Major,155,97,46,43,4 dB,2,0,40,8,17
+2017,Bulgaria,Kristian Kostov,Beautiful Mess,English,Pop,Male,1,C Minor,126,51,41,21,8 dB,42,0,11,4,2
+2017,Lithuania,Fusedmarc,Rain of Revolution,English,Pop,Female,1,Db Major,101,79,66,30,5 dB,4,0,12,6,
+2017,Estonia,Koit Toome and Laura,Verona,English,Pop,Mix,2,D Minor,111,82,61,29,4 dB,1,0,35,3,
+2017,Israel,IMRI,I Feel Alive,English,Pop,Male,1,C Minor,128,92,69,43,3 dB,2,2,5,5,23
+2017,Italy,Francesco Gabbani,Occidentali's Karma,Italian,Pop,Male,1,Bb Major,114,83,67,58,4 dB,4,0,11,8,6
+2017,Spain,Manel Navarro,Do It for Your Lover,"Spanish, English",Pop,Male,1,G Major,170,77,66,88,4 dB,1,0,11,5,26
+2017,United Kingdom,Lucie Jones,Never Give Up on You,English,Ballad,Female,1,F Major,128,37,41,25,8 dB,40,0,32,4,15
+2017,Germany,Levina,Perfect Life,English,Pop,Female,1,Eb Major,124,70,81,52,6 dB,38,0,13,5,25
+2017,Ukraine,O.Torvald,Time,English,Rock,Male,1,Db Minor,102,90,57,31,5 dB,0,0,12,8,24
+2017,France,Alma,Requiem,"French, English",Pop,Female,1,-,-,-,-,-,,-,-,-,-,12
+2016,Finland,Sandhja,Sing It Away,English,Pop,Female,1,G Minor,126,90,65,58,5 dB,0,3,15,8,
+2016,Greece,Argo,Utopian Land,"English, Greek3",Pop,Mix,4,-,-,-,-,-,,-,-,-,-,
+2016,Moldova,Lidia Isac,Falling Stars,English,Pop,Female,1,Ab Major,126,82,63,30,7 dB,5,0,2,4,
+2016,Hungary,Freddie,Pioneer,English,Pop,Male,1,C Minor,72,59,51,28,8 dB,0,96,11,3,19
+2016,Croatia,Nina Kraljic,Lighthouse,English,Pop,Female,1,Bb Minor,116,54,60,36,5 dB,23,0,21,4,23
+2016,Netherlands,Douwe Bob,Slow Down,English,Pop,Male,1,B Minor,124,79,60,62,5 dB,5,0,6,3,11
+2016,Armenia,Iveta Mukuchyan,LoveWave,English,Pop,Female,1,F Minor,120,72,53,31,8 dB,8,0,11,5,7
+2016,San Marino,Serhat,I Didn't Know,English,Pop,Male,1,Fs Minor,123,70,68,54,7 dB,3,0,13,5,
+2016,Russia,Sergey Lazarev,You Are the Only One,English,Pop,Male,1,B Minor,128,89,63,28,5 dB,4,0,9,6,3
+2016,Czech Republic,Gabriela Guncikova,I Stand,English,Pop,Female,1,G Minor,103,59,17,17,6 dB,0,0,31,4,25
+2016,Cyprus,Minus One,Alter Ego,English,Rock,Male,1,Bb Minor,130,91,48,59,4 dB,1,0,10,5,21
+2016,Austria,Zoe,Loin d'ici,French,Pop,Female,1,-,-,-,-,-,,-,-,-,-,13
+2016,Estonia,Juri Pootsmann,Play,English,Pop,Male,1,-,-,-,-,-,,-,-,-,-,
+2016,Azerbaijan,Samra,Miracle,English,Pop,Female,1,F Minor,96,76,58,34,3 dB,5,0,14,4,17
+2016,Montenegro,Highway,The Real Thing,English,Pop,Male,1,-,-,-,-,-,,-,-,-,-,
+2016,Iceland,Greta SalOme,Hear Them Calling,English,Pop,Female,1,D Minor,134,54,54,29,11 dB,4,0,25,8,
+2016,Bosnia and Herzegovina,Dalal & Deen feat. Ana Rucner and Jala,Ljubav je,Bosnian,Pop,Mix,3,Eb Major,84,73,30,48,6 dB,34,0,9,12,
+2016,Malta,Ira Losco,Walk on Water,English,Pop,Female,1,Eb Minor,124,81,38,18,5 dB,0,0,13,5,12
+2016,Latvia,Justs,Heartbeat,English,Pop,Male,1,Db Major,115,55,68,52,7 dB,3,0,9,7,15
+2016,Poland,Michal Szpak,Color of Your Life,English,Pop,Male,1,A Minor,83,67,49,25,5 dB,9,0,8,3,8
+2016,Switzerland,Rykka,The Last of Our Kind,English,Pop,Female,1,Db Minor,81,67,57,45,5 dB,16,0,43,4,
+2016,Israel,Hovi Star,Made of Stars,English,Ballad,Male,1,G Minor,70,41,43,36,7 dB,62,0,12,3,14
+2016,Belarus,Ivan,Help You Fly,English,Pop,Male,1,D Minor,93,76,49,29,6 dB,0,0,15,3,
+2016,Serbia,Sanja Vucic ZAA,Goodbye (Shelter),English,Pop,Female,1,-,-,-,-,-,,-,-,-,-,18
+2016,Ireland,Nicky Byrne,Sunlight,English,Pop,Male,1,G Minor,125,9,62,48,6 dB,4,0,26,3,
+2016,North Macedonia,Kaliopi,Dona,Macedonian,Ballad,Female,1,G Major,132,51,52,17,7 dB,17,0,11,5,
+2016,Lithuania,Donny Montell,I've Been Waiting for This Night,English,Ballad,Male,1,A Major,134,77,48,61,6 dB,0,0,31,4,9
+2016,Australia,Dami Im,Sound of Silence,English,Pop,Female,1,E Minor,136,82,52,32,4 dB,34,0,10,7,2
+2016,Slovenia,ManuElla,Blue and Red,English,Pop,Female,1,G Major,145,81,51,22,3 dB,9,0,35,4,
+2016,Bulgaria,Poli Genova,If Love Was a Crime,"English, Bulgarian",Dance,Female,1,C Major,110,83,61,52,5 dB,2,0,22,3,4
+2016,Denmark,Lighthouse X,Soldiers of Love,English,Pop,Male,3,Ab Major,127,70,65,39,7 dB,2,0,6,5,
+2016,Ukraine,Jamala,1944,"English, Crimean Tatar",Pop,Female,1,Eb Major,120,51,81,47,5 dB,60,1,24,6,1
+2016,Norway,Agnete,Icebreaker,English,Dance,Female,1,Fs Minor,125,72,43,18,6 dB,1,0,11,4,
+2016,Georgia,Nika Kocharov & Young Georgian Lolitaz,Midnight Gold,English,Rock,Male,1,-,-,-,-,-,,-,-,-,-,20
+2016,Albania,Eneda Tarifa,Fairytale,English,Pop,Female,1,-,-,-,-,-,,-,-,-,-,
+2016,Belgium,Laura Tesoro,What's the Pressure,English,Pop,Female,1,B Major,117,81,75,76,3 dB,2,0,7,10,10
+2016,Italy,Francesca Michielin,No Degree of Separation,"Italian, English",Pop,Female,1,C Major,150,78,29,34,4 dB,2,0,17,4,16
+2016,Sweden,Frans,If I Were Sorry,English,Pop,Male,1,A Minor,120,85,73,12,5 dB,16,1,10,5,5
+2016,Germany,Jamie-Lee,Ghost,English,Pop,Female,1,Bb Minor,170,60,47,21,7 dB,33,0,7,4,26
+2016,France,Amir,J'ai cherche,"French, English",Pop,Male,1,-,-,-,-,-,,-,-,-,-,6
+2016,Spain,Barei,Say Yay!,English,Pop,Female,1,F Minor,125,79,63,53,6 dB,2,0,10,3,22
+2016,United Kingdom,Joe and Jake,You're Not Alone,English,Pop,Male,2,E Major,128,87,53,34,5 dB,0,0,17,5,24
+2015,Moldova,Eduard Romanyuta,I Want Your Love,English,Pop,Male,1,Ab Major,103,81,44,87,5 dB,3,0,15,4,
+2015,Armenia,Genealogy,Face the Shadow,English,Pop,Mix,6,-,-,-,-,-,,-,-,-,-,16
+2015,Belgium,Loic Nottet,Rhythm Inside,English,Pop,Male,1,G Major,90,51,82,31,5 dB,8,0,7,4,4
+2015,Netherlands,Trijntje Oosterhuis,Walk Along,English,Pop,Female,1,-,-,-,-,-,,-,-,-,-,
+2015,Finland,Pertti Kurikan Nimipaivat,Aina mun pitaa,Finnish,Rock,Male,1,C Major,97,85,39,80,6 dB,0,0,36,5,
+2015,Greece,Maria Elena Kyriakou,One Last Breath,English,Ballad,Female,1,D Minor,69,60,22,31,7 dB,18,0,41,4,19
+2015,Estonia,Elina Born & Stig Rasta,Goodbye to Yesterday,English,Pop,Mix,2,G Minor,138,83,63,70,5 dB,38,0,39,5,7
+2015,North Macedonia,Daniel Kajmakoski,Autumn Leaves,English,Pop,Male,1,C Major,120,64,60,40,8 dB,63,0,9,3,
+2015,Serbia,Bojana Stamenov,Beauty Never Lies,English,Pop,Female,1,-,-,-,-,-,,-,-,-,-,10
+2015,Hungary,Boggie,Wars for Nothing,English,Pop,Female,1,D Major,97,15,45,22,12 dB,83,0,16,3,20
+2015,Belarus,Uzari & Maimuna,Time,English,Pop,Male,1,G Minor,130,84,56,51,4 dB,10,0,27,4,
+2015,Russia,Polina Gagarina,A Million Voices,English,Pop,Female,1,G Major,76,66,43,32,4 dB,18,0,17,3,2
+2015,Denmark,Anti Social Media,The Way You Are,English,Pop,Male,1,C Major,125,78,58,84,2 dB,9,0,24,3,
+2015,Albania,Elhaida Dani,I'm Alive,English,Pop,Female,1,-,-,-,-,-,,-,-,-,-,17
+2015,Romania,Voltaj,De la capat,"Romanian, English",Pop,Male,1,E Major,98,56,57,16,6 dB,49,0,13,3,15
+2015,Georgia,Nina Sublatti,Warrior,English,Pop,Female,1,F Minor,141,91,46,39,4 dB,1,0,22,10,11
+2015,Lithuania,Monika Linkyte & Vaidas Baumila,This Time,English,Pop,Mix,2,Ab Major,131,87,56,32,6 dB,0,0,11,6,18
+2015,Ireland,Molly Sterling,Playing with Numbers,English,Ballad,Female,1,C Major,79,49,56,24,6 dB,27,0,30,3,
+2015,San Marino,Anita Simoncini & Michele Perniola,Chain of Lights,English,Pop,Mix,2,-,-,-,-,-,,-,-,-,-,
+2015,Montenegro,Knez,Adio,Montenegrin,Traditional,Male,1,Fs Minor,95,56,34,29,8 dB,63,0,6,3,13
+2015,Malta,Amber,Warrior,English,Ballad,Female,1,-,-,-,-,-,,-,-,-,-,
+2015,Norway,Morland & Debrah Scarlett,A Monster Like Me,English,Ballad,Mix,2,Db Minor,147,31,31,17,8 dB,46,0,10,3,8
+2015,Portugal,Leonor Andrade,Ha um mar que nos separa,Portuguese,Ballad,Female,1,-,-,-,-,-,,-,-,-,-,
+2015,Czech Republic,Marta Jandova & Vaclav Noid Barta,Hope Never Dies,English,Ballad,Mix,2,-,-,-,-,-,,-,-,-,-,
+2015,Israel,Nadav Guedj,Golden Boy,English,Pop,Male,1,Db Minor,115,83,72,70,5 dB,18,0,7,6,9
+2015,Latvia,Aminata,Love Injected,English,Pop,Female,1,G Minor,144,29,45,16,10 dB,12,2,12,5,6
+2015,Azerbaijan,Elnur Huseynov,Hour of the Wolf,English,Ballad,Male,1,D Major,106,67,48,19,5 dB,6,0,31,4,12
+2015,Iceland,Maria Olafs,Unbroken,English,Pop,Female,1,Ab Major,97,61,27,46,7 dB,10,0,30,5,
+2015,Sweden,Mans Zelmerlow,Heroes,English,Pop,Male,1,G Major,124,79,48,37,4 dB,7,0,5,4,1
+2015,Switzerland,Melanie Rene,Time to Shine,English,Pop,Female,1,E Minor,140,67,60,45,7 dB,1,0,14,4,
+2015,Cyprus,John Karayiannis,One Thing I Should Have Done,English,Ballad,Male,1,Eb Major,90,38,35,46,8 dB,55,0,37,3,22
+2015,Slovenia,Maraaya,Here for You,English,Pop,Female,1,E Minor,158,76,29,54,5 dB,1,0,38,17,14
+2015,Poland,Monika Kuszynska,In the Name of Love,English,Ballad,Female,1,Db Major,82,64,34,13,7 dB,15,0,18,4,23
+2015,France,Lisa Angell,N'oubliez pas,French,Ballad,Female,1,A Minor,126,51,54,21,6 dB,75,0,10,3,25
+2015,United Kingdom,Electro Velvet,Still in Love with You,English,Pop,Mix,2,C Major,117,81,75,74,4 dB,3,0,8,6,24
+2015,Austria,The Makemakes,I Am Yours,English,Ballad,Male,1,Db Major,83,50,52,25,6 dB,31,0,10,3,26
+2015,Germany,Ann Sophie,Black Smoke,English,Pop,Female,1,Db Major,172,86,61,81,4 dB,0,0,15,9,27
+2015,Spain,Edurne,Amanecer,Spanish,Ballad,Female,1,Eb Minor,127,70,45,11,4 dB,14,0,10,3,21
+2015,Italy,Il Volo,Grande amore,Italian,Ballad,Male,3,Db Major,142,60,46,15,6 dB,6,0,15,3,3
+2014,Armenia,Aram MP3,Not Alone,English,Ballad,Male,1,C Minor,70,63,45,20,7 dB,28,95,20,3,4
+2014,Latvia,Aarzemnieki,Cake to Bake,English,Pop,Male,2,Fs Major,99,69,59,81,7 dB,63,0,13,7,
+2014,Estonia,Tanja,Amazing,English,Dance,Female,1,F Minor,128,63,64,14,7 dB,1,43,12,4,
+2014,Sweden,Sanna Nielsen,Undo,English,Ballad,Female,1,Fs Major,122,49,58,26,4 dB,40,0,8,4,3
+2014,Iceland,Pollaponk,No Prejudice,English,Rock,Male,3,G Major,108,93,71,76,5 dB,11,0,26,9,15
+2014,Albania,Hersi,One Night's Anger,English,Ballad,Female,1,-,-,-,-,-,,-,-,-,-,
+2014,Russia,Tolmachevy Sisters,Shine,English,Pop,Female,2,E Minor,120,87,63,71,5 dB,22,0,10,3,7
+2014,Azerbaijan,Dilara Kazimova,Start a Fire,English,Ballad,Female,1,B Minor,85,32,30,31,7 dB,83,0,18,3,22
+2014,Ukraine,Mariya Yaremchuk,Tick-Tock,English,Pop,Female,1,Fs Minor,125,90,70,73,4 dB,1,0,6,4,6
+2014,Belgium,Axel Hirsoux,Mother,English,Ballad,Male,1,E Minor,87,33,31,25,8 dB,86,0,10,3,
+2014,Moldova,Cristina Scarlat,Wild Soul,English,Ballad,Female,1,-,-,-,-,-,,-,-,-,-,
+2014,San Marino,Valentina Monetta,Maybe,English,Ballad,Female,2,-,-,-,-,-,,-,-,-,-,24
+2014,Portugal,Suzy,Quero ser tua,Portuguese,Pop,Female,1,-,-,-,-,-,,-,-,-,-,
+2014,Netherlands,The Common Linnets,Calm After the Storm,English,Traditional,Mix,2,Fs Major,116,37,71,43,11 dB,52,23,11,3,2
+2014,Montenegro,Sergej cetkovic,Moj svijet,Montenegrin,Ballad,Male,1,C Minor,53,58,19,23,5 dB,32,0,11,4,19
+2014,Hungary,Andras Kallay-Saunders,Running,English,Pop,Male,1,-,-,-,-,-,,-,-,-,-,5
+2014,Malta,Firelight,Coming Home,English,Traditional,Mix,2,-,-,-,-,-,,-,-,-,-,23
+2014,Israel,Mei Finegold,Same Heart,"English, Hebrew",Pop,Female,1,-,-,-,-,-,,-,-,-,-,
+2014,Norway,Carl Espen,Silent Storm,English,Ballad,Male,1,A Major,75,20,35,24,11 dB,86,0,10,4,8
+2014,Georgia,The Shin and Mariko,Three Minutes to Earth,English,Traditional,Mix,2,-,-,-,-,-,,-,-,-,-,
+2014,Poland,Donatan & Cleo,My Slowianie – We Are Slavic,"Polish, English",Traditional,Female,1,G Major,156,85,68,68,5 dB,26,0,38,10,14
+2014,Austria,Conchita Wurst,Rise Like a Phoenix,English,Ballad,Male,1,D Minor,82,45,43,21,9 dB,8,0,13,3,1
+2014,Lithuania,Vilija,Attention,English,Pop,Female,1,-,-,-,-,-,,-,-,-,-,
+2014,Finland,Softengine,Something Better,English,Rock,Male,1,C Major,146,88,56,37,6 dB,0,0,25,6,11
+2014,Ireland,Can-Linn feat. Kasey Smith,Heartbeat,English,Pop,Female,1,C Major,120,84,68,74,4 dB,29,0,19,3,
+2014,Belarus,Teo,Cheesecake,English,Pop,Male,1,Db Minor,95,80,80,89,4 dB,18,0,7,7,16
+2014,North Macedonia,Tijana,To the Sky,English,Pop,Female,1,Db Minor,128,88,55,74,5 dB,0,0,10,5,
+2014,Switzerland,Sebalter,Hunter of Stars,English,Pop,Male,1,E Minor,88,89,57,92,4 dB,14,0,10,7,13
+2014,Greece,Freaky Fortune feat. RiskyKidd,Rise Up,English,Dance,Male,2,C Minor,128,82,67,65,6 dB,4,0,39,6,20
+2014,Slovenia,Tinkara Kovac,Round and Round,"English, Slovene",Pop,Female,1,Ab Major,120,63,54,25,6 dB,2,0,22,3,25
+2014,Romania,Paula Seling & Ovi,Miracle,English,Dance,Mix,2,A Major,135,87,55,35,4 dB,2,0,18,4,12
+2014,Germany,Elaiza,Is It Right,English,Traditional,Female,1,-,-,-,-,-,,-,-,-,-,18
+2014,France,TWIN TWIN,Moustache,French,Dance,Male,1,Eb Minor,128,89,66,79,5 dB,0,0,9,4,26
+2014,Italy,Emma,La mia citta,Italian,Rock,Female,1,-,-,-,-,-,,-,-,-,-,21
+2014,Spain,Ruth Lorenzo,Dancing in the Rain,"English, Spanish",Ballad,Female,1,C Major,130,67,60,42,7 dB,68,0,10,4,10
+2014,Denmark,Basim,Cliche Love Song,English,Pop,Male,1,Ab Major,112,84,78,71,4 dB,5,0,5,6,9
+2014,United Kingdom,Molly,Children of the Universe,English,Pop,Female,1,-,-,-,-,-,,-,-,-,-,17
+2013,Austria,Natalia Kelly,Shine,English,Pop,Female,1,B Minor,122,92,62,62,5 dB,0,0,7,7,
+2013,Estonia,Birgit,Et uus saaks alguse,Estonian,Ballad,Female,1,F Major,78,59,47,32,5 dB,77,0,7,3,20
+2013,Slovenia,Hannah,Straight Into Love,English,Dance,Female,1,D Major,128,80,55,11,5 dB,0,0,8,5,
+2013,Croatia,Klapa s Mora,Mizerja,Croatian,Traditional,Male,6,Fs Major,100,52,29,29,8 dB,29,0,16,4,
+2013,Denmark,Emmelie de Forest,Only Teardrops,English,Pop,Female,1,C Major,128,86,62,23,10 dB,0,89,36,3,1
+2013,Russia,Dina Garipova,What If,English,Ballad,Female,1,-,-,-,-,-,,-,-,-,-,5
+2013,Ukraine,Zlata Ognevich,Gravity,English,Pop,Female,1,C Major,176,78,32,46,4 dB,52,0,29,8,3
+2013,Netherlands,Anouk,Birds,English,Ballad,Female,1,B Major,85,41,17,9,8 dB,61,0,11,3,9
+2013,Montenegro,Who See,Igranka,Montenegrin,Dance,Mix,3,-,-,-,-,-,,-,-,-,-,
+2013,Lithuania,Andrius Pojavis,Something,English,Dance,Male,1,F Major,130,74,53,52,5 dB,3,0,10,3,22
+2013,Belarus,Alyona Lanskaya,Solayoh,English,Dance,Female,1,B Minor,95,91,81,60,5 dB,2,0,28,5,16
+2013,Moldova,Aliona Moon,O mie,Romanian,Ballad,Female,1,D Minor,128,72,62,31,3 dB,56,0,18,3,11
+2013,Ireland,Ryan Dolan,Only Love Survives,English,Pop,Male,1,C Minor,128,83,54,35,5 dB,0,0,19,7,26
+2013,Cyprus,Despina Olympiou,An me thimasai,Greek,Ballad,Female,1,D Minor,105,72,63,54,7 dB,34,0,12,3,
+2013,Belgium,Roberto Bellarosa,Love Kills,English,Pop,Male,1,Fs Major,132,68,46,35,7 dB,1,0,17,3,12
+2013,Serbia,Moje 3,Ljubav je svuda,Serbian,Dance,Female,3,-,-,-,-,-,,-,-,-,-,
+2013,Latvia,PeR,Here We Go,English,Dance,Male,2,-,-,-,-,-,,-,-,-,-,
+2013,San Marino,Valentina Monetta,Crisalide (Vola),Italian,Ballad,Female,1,Eb Minor,152,83,35,60,5 dB,45,0,15,7,
+2013,North Macedonia,Esma & Lozano,Pred da se razdeni,"Macedonian, Romani",Traditional,Mix,2,Bb Major,125,91,56,28,4 dB,0,0,33,4,
+2013,Azerbaijan,Farid Mammadov,Hold Me,English,Ballad,Male,1,Bb Minor,90,78,51,36,4 dB,1,0,18,3,2
+2013,Finland,Krista Siegfrids,Marry Me,English,Pop,Female,1,Fs Minor,145,74,80,84,8 dB,0,0,7,14,24
+2013,Malta,Gianluca,Tomorrow,English,Pop,Male,1,A Major,100,64,72,83,7 dB,73,0,9,3,8
+2013,Bulgaria,Elitsa Todorova & Stoyan Yankoulov,Samo shampioni,Bulgarian,Traditional,Mix,2,A Minor,130,93,64,74,5 dB,1,0,9,9,
+2013,Iceland,Eythor Ingi,Eg a lif,Icelandic,Traditional,Male,1,A Major,75,34,49,39,9 dB,50,0,12,3,17
+2013,Greece,Koza Mostra feat. Agathon Iakovidis,Alcohol Is Free,Greek1,Traditional,Male,4,D Minor,172,94,57,73,4 dB,1,0,3,4,6
+2013,Israel,Moran Mazor,Rak Bishvilo,Hebrew,Ballad,Female,1,Bb Minor,105,79,60,32,4 dB,47,0,52,5,
+2013,Armenia,Dorians,Lonely Planet,English,Rock,Male,1,-,-,-,-,-,,-,-,-,-,18
+2013,Hungary,ByeAlex,Kedvesem (Zoohacker Remix),Hungarian,Pop,Male,1,C Major,82,21,66,44,10 dB,77,0,11,4,10
+2013,Norway,Margaret Berger,I Feed You My Love,English,Dance,Female,1,B Minor,96,95,34,40,4 dB,0,0,24,42,4
+2013,Albania,Adrian Lulgjuraj & Bledar Sejko,Identitet,Albanian,Rock,Male,2,-,-,-,-,-,,-,-,-,-,
+2013,Georgia,Nodi Tatishvili & Sophie Gelovani,Waterfall,English,Ballad,Mix,2,F Major,138,32,34,19,9 dB,69,0,17,3,15
+2013,Switzerland,Takasa,You and Me,English,Pop,Mix,2,Ab Minor,134,76,58,69,8 dB,0,88,5,4,
+2013,Romania,Cezar,It's My Life,English,Dance,Male,1,B Minor,135,91,50,54,5 dB,20,0,13,9,13
+2013,France,Amandine Bourgeois,L'enfer et moi,French,Rock,Female,1,Db Minor,90,62,55,34,5 dB,1,0,33,3,23
+2013,Spain,ESDM,Contigo hasta el final,Spanish,Rock,Female,1,-,-,-,-,-,,-,-,-,-,25
+2013,Germany,Cascada,Glorious,English,Dance,Female,1,-,-,-,-,-,,-,-,-,-,21
+2013,United Kingdom,Bonnie Tyler,Believe in Me,English,Rock,Female,1,Ab Major,129,64,60,21,6 dB,33,0,9,3,19
+2013,Sweden,Robin Stjernberg,You,English,Dance,Male,1,-,-,-,-,-,,-,-,-,-,14
+2013,Italy,Marco Mengoni,L'essenziale,Italian,Ballad,Male,1,Fs Major,126,63,56,15,4 dB,20,0,11,4,7
+2012,Montenegro,Rambo Amadeus,Euro Neuro,English,Traditional,Male,1,-,-,-,-,-,,-,-,-,-,
+2012,Iceland,Greta Salome and Jonsi,Never Forget,English,Ballad,Mix,2,C Minor,101,73,34,48,4 dB,14,0,5,3,20
+2012,Greece,Eleftheria Eleftheriou,Aphrodisiac,English,Dance,Female,1,B Minor,110,86,63,87,5 dB,0,0,30,3,17
+2012,Latvia,Anmary,Beautiful Song,English,Pop,Female,1,Ab Minor,120,82,73,92,6 dB,6,0,31,5,
+2012,Albania,Rona Nishliu,Suus3,Albanian,Ballad,Female,1,Bb Minor,74,33,28,9,5 dB,80,0,11,3,5
+2012,Romania,Mandinga,Zaleilah,"Spanish, English",Dance,Female,1,D Minor,127,82,70,79,6 dB,5,1,34,5,12
+2012,Switzerland,Sinplus,Unbreakable,English,Rock,Male,1,D Major,144,94,49,50,3 dB,1,0,8,4,
+2012,Belgium,Iris,Would You?,English,Ballad,Female,1,-,-,-,-,-,,-,-,-,-,
+2012,Finland,Pernilla Karlsson,Nar jag blundar,Swedish,Ballad,Female,1,-,-,-,-,-,,-,-,-,-,
+2012,Israel,Izabo,Time,"English, Hebrew",Pop,Male,1,B Major,130,85,46,73,3 dB,1,0,7,4,
+2012,San Marino,Valentina Monetta,The Social Network Song (Oh Oh – Uh - Oh Oh),English,Dance,Female,1,Ab Minor,106,91,69,89,6 dB,8,33,6,4,
+2012,Cyprus,Ivi Adamou,La La Love,English,Dance,Female,1,-,-,-,-,-,,-,-,-,-,16
+2012,Denmark,Soluna Samay,Should've Known Better,English,Rock,Female,1,D Major,94,48,83,75,7 dB,56,0,35,5,23
+2012,Russia,Buranovskiye Babushki,Party for Everybody,"Udmurt, English",Dance,Female,6,C Minor,126,85,65,62,5 dB,19,0,35,13,2
+2012,Hungary,Compact Disco,Sound of Our Hearts,English,Pop,Male,1,B Minor,80,82,41,25,4 dB,1,0,18,4,24
+2012,Austria,Trackshittaz,Woki mit deim Popo,German5,Dance,Male,2,C Major,121,85,87,89,2 dB,4,0,42,4,
+2012,Moldova,Pasha Parfeny,Lautar,English6,Pop,Male,1,G Minor,107,86,66,60,4 dB,11,0,21,6,11
+2012,Ireland,Jedward,Waterline,English,Dance,Male,2,Bb Major,144,73,66,86,6 dB,0,0,7,4,19
+2012,Serbia,zeljko Joksimovic,Nije ljubav stvar ,Serbian,Ballad,Male,1,-,-,-,-,-,,-,-,-,-,3
+2012,North Macedonia,Kaliopi,Crno i belo,Macedonian,Rock,Female,1,D Minor,130,52,73,21,10 dB,36,0,8,33,13
+2012,Netherlands,Joan Franka,You and Me,English,Pop,Female,1,Fs Major,98,64,66,70,6 dB,20,0,14,2,
+2012,Malta,Kurt Calleja,This Is the Night,English,Dance,Male,1,C Major,122,87,65,64,4 dB,0,0,7,4,21
+2012,Belarus,Litesound,We Are the Heroes,English,Dance,Male,1,Db Minor,120,89,52,52,4 dB,1,0,8,4,
+2012,Portugal,Filipa Sousa,Vida minha,Portuguese,Ballad,Female,1,A Minor,86,21,37,21,11 dB,87,0,12,3,
+2012,Ukraine,Gaitana,Be My Guest,English,Dance,Female,1,-,-,-,-,-,,-,-,-,-,15
+2012,Bulgaria,Sofi Marinova,Love Unlimited,Bulgarian,Dance,Female,1,B Minor,130,66,75,86,9 dB,14,0,36,14,
+2012,Slovenia,Eva Boto,Verjamem,Slovene,Ballad,Female,1,F Minor,132,54,36,12,6 dB,31,0,11,3,
+2012,Croatia,Nina Badric,Nebo,Croatian,Ballad,Female,1,G Minor,113,65,52,31,6 dB,46,0,8,5,
+2012,Sweden,Loreen,Euphoria,English,Dance,Female,1,B Minor,132,78,56,39,5 dB,14,0,28,4,1
+2012,Georgia,Anri Jokhadze,I'm a Joker,"English, Georgian",Pop,Male,1,-,-,-,-,-,,-,-,-,-,
+2012,Turkey,Can Bonomo,Love Me Back,English,Traditional,Male,1,E Major,102,96,70,64,5 dB,18,0,73,7,7
+2012,Estonia,Ott Lepland,Kuula,Estonian,Ballad,Male,1,F Major,129,31,37,14,8 dB,45,0,9,3,6
+2012,Slovakia,Max Jason Mai,Don't Close Your Eyes,English,Rock,Male,1,-,-,-,-,-,,-,-,-,-,
+2012,Norway,Tooji,Stay,English,Dance,Male,1,F Minor,127,90,61,59,3 dB,0,0,8,11,26
+2012,Bosnia and Herzegovina,Maya Sar,Korake ti znam,Bosnian,Ballad,Female,1,A Major,122,35,38,44,8 dB,71,0,24,3,18
+2012,Lithuania,Donny Montell,Love Is Blind,English,Ballad,Male,1,Eb Minor,124,31,76,8,10 dB,32,77,11,6,14
+2012,United Kingdom,Engelbert Humperdinck,Love Will Set You Free,English,Ballad,Male,1,D Minor,120,32,46,24,8 dB,86,0,14,3,25
+2012,France,Anggun,Echo (You and I),"French, English",Pop,Female,1,Bb Major,137,79,58,70,5 dB,0,0,10,3,22
+2012,Italy,Nina Zilli,L'amore e femmina (Out of Love),"English, Italian",Pop,Female,1,-,-,-,-,-,,-,-,-,-,9
+2012,Azerbaijan,Sabina Babayeva,When the Music Dies,English,Ballad,Female,1,Db Minor,92,9,22,30,4 dB,61,0,43,3,4
+2012,Spain,Pastora Soler,Quedate conmigo (Stay With Me),Spanish,Ballad,Female,1,Ab Major,84,66,49,20,5 dB,36,0,52,3,10
+2012,Germany,Roman Lob,Standing Still,English,Pop,Male,1,Bb Major,108,87,59,4,8 dB,6,79,11,4,8
+2011,Poland,Magdalena Tul,Jestem,Polish,Pop,Female,1,F Minor,129,93,73,55,5 dB,0,0,32,12,
+2011,Norway,Stella Mwangi,Haba Haba,"English, Swahili",Pop,Female,1,Ab Major,124,91,73,97,5 dB,3,0,17,3,
+2011,Albania,Aurela Gaçe,Feel the Passion,English,Rock,Female,1,Ab Minor,75,26,44,12,10 dB,84,0,11,4,
+2011,Armenia,Emmy,Boom Boom,English,Pop,Female,1,-,-,-,-,-,,-,-,-,-,
+2011,Turkey,Yuksek Sadakat,Live It Up,English,Rock,Male,1,-,-,-,-,-,,-,-,-,-,
+2011,Serbia,Nina,Caroban,Serbian,Pop,Female,1,-,-,-,-,-,,-,-,-,-,14
+2011,Russia,Alexey Vorobyov,Get You,"English, Russian",Pop,Male,1,-,-,-,-,-,,-,-,-,-,16
+2011,Switzerland,Anna Rossinelli,In Love for a While,English,Pop,Female,1,A Major,128,40,76,65,6 dB,25,0,10,4,25
+2011,Georgia,Eldrine,One More Day,English,Rock,Female,1,Ab Minor,116,86,63,40,5 dB,0,0,25,4,9
+2011,Finland,Paradise Oskar,Da Da Dam,English,Pop,Male,1,D Major,73,51,53,18,8 dB,17,0,9,3,21
+2011,Malta,Glen Vella,One Life,English,Pop,Male,1,A Minor,137,90,70,35,3 dB,7,0,8,9,
+2011,San Marino,Senit,Stand By,English,Ballad,Female,1,-,-,-,-,-,,-,-,-,-,
+2011,Croatia,Daria,Celebrate,English,Dance,Female,1,Fs Major,128,87,77,38,7 dB,0,84,8,4,
+2011,Iceland,Sjonni's Friends,Coming Home,English,Pop,Male,6,D Major,92,72,63,81,6 dB,33,0,18,4,20
+2011,Hungary,Kati Wolf,What About My Dreams?,"English, Hungarian",Dance,Female,1,-,-,-,-,-,,-,-,-,-,22
+2011,Portugal,Homens da Luta,A luta e alegria,Portuguese,Pop,Mix,6,-,-,-,-,-,,-,-,-,-,
+2011,Lithuania,Evelina Sasenko,C'est ma vie,English,Ballad,Female,1,E Major,163,28,25,9,9 dB,51,0,17,3,19
+2011,Azerbaijan,Ell & Nikki,Running Scared,English,Ballad,Mix,2,C Major,172,70,32,24,4 dB,2,0,36,3,1
+2011,Greece,Loukas Giorkas feat. Stereo Mike,Watch My Dance,"English, Greek",Pop,Male,2,-,-,-,-,-,,-,-,-,-,7
+2011,Bosnia and Herzegovina,Dino Merlin,Love in Rewind,English,Pop,Male,1,Fs Minor,84,65,53,39,8 dB,45,0,4,3,6
+2011,Austria,Nadine Beiler,The Secret Is Love,English,Ballad,Female,1,G Major,123,47,51,10,5 dB,21,0,10,4,18
+2011,Netherlands,3JS,Never Alone,English,Ballad,Male,1,C Major,97,83,48,57,6 dB,1,0,32,3,
+2011,Belgium,Witloof Bay,With Love Baby,English,Pop,Mix,6,C Minor,88,62,88,67,9 dB,17,0,22,15,
+2011,Slovakia,TWiiNS,I'm Still Alive,English,Ballad,Female,2,A Major,87,76,50,34,3 dB,41,0,7,3,
+2011,Ukraine,Mika Newton,Angel,English,Ballad,Female,1,F Minor,162,54,44,22,9 dB,14,0,20,3,4
+2011,Moldova,Zdob si Zdub,So Lucky,English,Rock,Male,1,E Minor,148,89,74,81,4 dB,1,0,10,6,12
+2011,Sweden,Eric Saade,Popular,English,Dance,Male,1,A Major,125,96,54,49,5 dB,0,0,5,10,3
+2011,Cyprus,Christos Mylordos,San aggelos s'agapisa,Greek,Pop,Male,4,-,-,-,-,-,,-,-,-,-,
+2011,Bulgaria,Poli Genova,Na inat,Bulgarian,Rock,Female,1,-,-,-,-,-,,-,-,-,-,
+2011,North Macedonia,Vlatko Ilievski,Rusinka,"Macedonian, English",Pop,Male,1,-,-,-,-,-,,-,-,-,-,
+2011,Israel,Dana International,Ding Dong,"Hebrew, English",Pop,Female,1,-,-,-,-,-,,-,-,-,-,
+2011,Slovenia,Maja Keuc,No One,English,Ballad,Female,1,F Minor,88,81,28,31,3 dB,8,0,11,4,13
+2011,Romania,Hotel FM,Change,English,Pop,Male,1,-,-,-,-,-,,-,-,-,-,17
+2011,Estonia,Getter Jaani,Rockefeller Street,English,Pop,Female,1,Eb Minor,130,89,81,75,4 dB,12,0,10,5,24
+2011,Belarus,Anastasia Vinnikova,I Love Belarus,English,Pop,Female,1,-,-,-,-,-,,-,-,-,-,
+2011,Latvia,Musiqq,Angel in Disguise,English,Pop,Male,2,Bb Major,125,79,63,61,4 dB,1,0,9,5,
+2011,Denmark,A Friend in London,New Tomorrow,English,Rock,Male,1,G Major,147,67,50,41,6 dB,16,0,10,3,5
+2011,Ireland,Jedward,Lipstick,English,Pop,Male,2,F Minor,138,48,73,15,10 dB,0,89,36,5,8
+2011,France,Amaury Vassili,Sognu,Corsican,Ballad,Male,1,Bb Minor,128,77,29,23,4 dB,80,20,15,5,15
+2011,Italy,Raphael Gualazzi,Madness of Love,"Italian, English",Ballad,Male,1,C Major,144,41,53,37,7 dB,72,0,22,4,2
+2011,United Kingdom,Blue,I Can,English,Pop,Male,4,-,-,-,-,-,,-,-,-,-,11
+2011,Germany,Lena,Taken by a Stranger,English,Pop,Female,1,F Minor,160,38,75,37,12 dB,5,81,11,8,10
+2011,Spain,Lucia Perez,Que me quiten lo bailao,Spanish,Pop,Female,1,D Major,99,86,68,86,3 dB,27,0,6,8,23
+2010,Moldova,SunStroke Project and Olia Tira,Run Away,English,Pop,Mix,2,Eb Minor,130,93,66,36,3 dB,1,0,18,8,22
+2010,Russia,Peter Nalitch and Friends,Lost and Forgotten,English,Ballad,Male,1,C Major,98,47,36,21,4 dB,16,0,10,3,11
+2010,Estonia,Malcolm Lincoln,Siren,English,Pop,Male,1,-,-,-,-,-,,-,-,-,-,
+2010,Slovakia,Kristina,Horehronie,Slovak,Traditional,Female,1,-,-,-,-,-,,-,-,-,-,
+2010,Finland,Kuunkuiskaajat,Tyolki ellaa,Finnish,Traditional,Female,2,A Minor,115,84,46,55,5 dB,69,0,9,8,
+2010,Latvia,Aisha,What For?,English,Ballad,Female,1,G Minor,78,62,64,45,4 dB,6,0,19,3,
+2010,Serbia,Milan Stankovic,Ovo je Balkan,Serbian,Pop,Male,1,-,-,-,-,-,,-,-,-,-,13
+2010,Bosnia and Herzegovina,Vukasin Brajic,Thunder and Lightning,English,Rock,Male,1,-,-,-,-,-,,-,-,-,-,17
+2010,Poland,Marcin Mrozinski,Legenda,"English, Polish",Ballad,Male,1,-,-,-,-,-,,-,-,-,-,
+2010,Belgium,Tom Dice,Me and My Guitar,English,Pop,Male,1,A Major,129,34,47,42,8 dB,62,0,14,3,6
+2010,Malta,Thea Garrett,My Dream,English,Ballad,Female,1,Fs Major,138,67,44,31,5 dB,14,0,12,3,
+2010,Albania,Juliana Pasha,It's All About You,English,Pop,Female,1,-,-,-,-,-,,-,-,-,-,16
+2010,Greece,Giorgos Alkaios and Friends,OPA,Greek1,Pop,Male,1,C Major,135,94,73,74,4 dB,0,1,7,4,8
+2010,Portugal,Filipa Azevedo,Ha dias assim,Portuguese,Ballad,Female,1,-,-,-,-,-,,-,-,-,-,18
+2010,North Macedonia,Gjoko Taneski,Jas ja imam silata,Macedonian,Pop,Male,1,-,-,-,-,-,,-,-,-,-,
+2010,Belarus,3+2 feat Robert Wells,Butterflies,English,Ballad,Mix,5,-,-,-,-,-,,-,-,-,-,24
+2010,Iceland,Hera Bjork,Je ne sais quoi,English,Dance,Female,1,Eb Minor,132,88,53,28,4 dB,3,0,17,7,19
+2010,Lithuania,InCulto,Eastern European Funk,English,Dance,Male,5,A Major,134,76,83,93,7 dB,3,0,18,5,
+2010,Armenia,Eva Rivas,Apricot Stone,English,Pop,Female,1,B Minor,101,67,61,38,9 dB,25,0,16,10,7
+2010,Israel,Harel Skaat,Milim,Hebrew,Ballad,Male,1,Ab Minor,115,51,39,20,6 dB,60,0,19,3,14
+2010,Denmark,Chanee and N'evergreen,In a Moment Like This,English,Pop,Mix,2,Fs Major,95,77,66,39,5 dB,28,0,10,3,4
+2010,Switzerland,Michael von der Heide,Il pleut de l'or,French,Pop,Male,1,F Minor,128,75,73,73,6 dB,11,0,33,3,
+2010,Sweden,Anna Bergendahl,This Is My Life,English,Pop,Female,1,-,-,-,-,-,,-,-,-,-,
+2010,Azerbaijan,Safura,Drip Drop,English,Ballad,Female,1,Fs Major,148,66,47,23,4 dB,1,0,8,3,5
+2010,Ukraine,Alyosha,Sweet People,English,Ballad,Female,1,E Minor,120,41,63,12,6 dB,72,0,14,4,10
+2010,Netherlands,Sieneke,Ik ben verliefd,Dutch,Pop,Female,1,Db Minor,162,91,62,77,3 dB,29,0,6,5,
+2010,Romania,Paula Seling and Ovi,Playing with Fire,English,Pop,Mix,2,G Major,122,82,66,96,3 dB,2,0,6,4,3
+2010,Slovenia,Ansambel zlindra and Kalamari,Narodnozabavni rock,Slovene,Rock,Mix,2,-,-,-,-,-,,-,-,-,-,
+2010,Ireland,Niamh Kavanagh,It's for You,English,Ballad,Female,1,C Major,130,46,40,16,5 dB,33,0,9,3,23
+2010,Bulgaria,Miro,Angel si ti,"Bulgarian, English",Pop,Male,1,-,-,-,-,-,,-,-,-,-,
+2010,Cyprus,Jon Lilygreen and The Islanders,Life Looks Better in Spring,English,Pop,Male,1,-,-,-,-,-,,-,-,-,-,21
+2010,Croatia,Feminnem,Lako je sve,Croatian,Ballad,Female,3,Eb Minor,76,64,50,49,5 dB,38,0,15,4,
+2010,Georgia,Sofia Nizharadze,Shine,English,Ballad,Female,1,D Major,126,49,46,17,7 dB,17,0,31,3,9
+2010,Turkey,maNga,We Could Be the Same,English,Rock,Male,1,A Minor,112,68,56,41,7 dB,1,0,14,3,2
+2010,Spain,Daniel Diges,Algo pequenito,Spanish,Pop,Male,1,D Minor,88,62,37,71,5 dB,73,0,27,8,15
+2010,Norway,Didrik Solli-Tangen,My Heart Is Yours,English,Ballad,Male,1,A Major,133,24,28,22,5 dB,83,0,13,3,20
+2010,United Kingdom,Josh Dubovie,That Sounds Good to Me,English,Pop,Male,1,G Major,124,69,55,38,11 dB,14,87,18,4,25
+2010,France,Jessy Matador,Allez Ola Ole,French,Dance,Male,1,B Major,129,93,64,72,5 dB,0,0,6,6,12
+2010,Germany,Lena,Satellite,English,Pop,Female,1,E Minor,95,94,75,87,10 dB,0,79,10,5,1
+2009,Montenegro,Andrea Demirovic,Just Get Out of My Life,English,Pop,Female,1,G Minor,138,91,56,56,3 dB,2,0,66,5,
+2009,Czech Republic,Gipsy.cz,Aven Romale,"English, Romani",Traditional,Male,1,Bb Minor,154,84,80,69,7 dB,20,0,23,46,
+2009,Belgium,Copycat,Copycat,English,Pop,Male,1,-,-,-,-,-,,-,-,-,-,
+2009,Belarus,Petr Elfimov,Eyes That Never Lie,English,Rock,Male,1,D Minor,138,90,39,26,4 dB,0,0,34,5,
+2009,Sweden,Malena Ernman,La voix,"French, English",Traditional,Female,1,Bb Major,128,65,52,46,4 dB,35,0,21,4,21
+2009,Armenia,Inga and Anush,Jan Jan,"English, Armenian",Traditional,Female,2,E Minor,115,86,78,76,4 dB,36,0,35,8,10
+2009,Andorra,Susanne Georgi,La teva decisio (Get a Life),"Catalan, English",Pop,Female,1,D Major,133,40,77,92,16 dB,7,0,10,5,
+2009,Switzerland,Lovebugs,The Highest Heights,English,Rock,Male,1,D Minor,118,93,47,29,4 dB,1,3,38,4,
+2009,Turkey,Hadise,Dum Tek Tek,English,Dance,Female,1,F Major,115,97,75,87,4 dB,13,0,8,6,4
+2009,Israel,Noa and Mira Awad,There Must Be Another Way,"English, Hebrew, Arabic",Pop,Female,2,Db Major,106,79,60,69,5 dB,23,0,10,2,16
+2009,Bulgaria,Krassimir Avramov,Illusion,English,Dance,Mix,4,E Minor,130,91,49,44,5 dB,1,0,9,7,
+2009,Iceland,Yohanna,Is It True?,English,Ballad,Female,1,C Minor,84,57,47,23,7 dB,35,0,7,3,2
+2009,North Macedonia,Next Time,Nesto sto kje ostane,Macedonian,Rock,Male,1,-,-,-,-,-,,-,-,-,-,
+2009,Romania,Elena,The Balkan Girls,English,Dance,Female,1,F Major,130,86,72,63,4 dB,2,0,5,3,19
+2009,Finland,Waldo's People,Lose Control,English,Pop,Male,1,G Major,138,96,56,88,4 dB,0,23,26,6,25
+2009,Portugal,Flor-de-Lis,Todas as ruas do amor,Portuguese,Traditional,Female,1,G Major,95,70,50,33,5 dB,34,0,12,3,15
+2009,Malta,Chiara,What If We,English,Ballad,Female,1,Db Major,123,44,48,14,7 dB,62,0,7,3,22
+2009,Bosnia and Herzegovina,Regina,Bistra voda,Bosnian,Ballad,Male,1,Fs Minor,152,78,52,38,4 dB,44,0,11,4,9
+2009,Croatia,Igor Cukrov feat. Andrea,Lijepa Tena,Croatian,Ballad,Mix,2,Db Minor,116,69,58,43,4 dB,56,0,8,3,18
+2009,Ireland,Sinead Mulvey and Black Daisy,Et Cetera,English,Rock,Female,1,F Minor,170,75,45,44,6 dB,0,0,36,3,
+2009,Latvia,Intars Busulis,Probka,Russian,Pop,Mix,3,-,-,-,-,-,,-,-,-,-,
+2009,Serbia,Marko Kon and Milaan,Cipela,Serbian,Traditional,Male,1,-,-,-,-,-,,-,-,-,-,
+2009,Poland,Lidia Kopania,I Don't Wanna Leave,English,Ballad,Female,1,Fs Major,144,69,45,26,4 dB,31,0,55,3,
+2009,Norway,Alexander Rybak,Fairytale,English,Traditional,Male,1,D Minor,108,79,58,67,5 dB,62,0,23,3,1
+2009,Cyprus,Christina Metaxa,Firefly,English,Ballad,Female,1,-,-,-,-,-,,-,-,-,-,
+2009,Slovakia,Kamil Mikulcik and Nela Pociskova,Le? tmou,Slovak,Ballad,Mix,2,-,-,-,-,-,,-,-,-,-,
+2009,Denmark,Niels Brinck,Believe Again,English,Rock,Male,1,E Minor,128,75,66,34,5 dB,1,0,10,5,13
+2009,Slovenia,Quartissimo feat. Martina,Love Symphony,"English, Slovene",Pop,Female,1,-,-,-,-,-,,-,-,-,-,
+2009,Hungary,Zoli adok,Dance with Me,English,Pop,Male,1,Ab Major,125,96,66,81,4 dB,0,0,8,10,
+2009,Azerbaijan,AySel and Arash,Always,English,Pop,Mix,2,-,-,-,-,-,,-,-,-,-,3
+2009,Greece,Sakis Rouvas,This Is Our Night,English,Dance,Male,1,Fs Minor,128,92,65,65,5 dB,4,0,16,7,7
+2009,Lithuania,Sasha Son,Love,"English, Russian",Ballad,Male,1,-,-,-,-,-,,-,-,-,-,23
+2009,Moldova,Nelly Ciobanu,Hora din Moldova,"Romanian, English",Traditional,Female,1,-,-,-,-,-,,-,-,-,-,14
+2009,Albania,Kejsi Tola,Carry Me in Your Dreams,English,Dance,Female,1,Ab Minor,128,67,68,67,8 dB,0,0,8,5,17
+2009,Ukraine,Svetlana Loboda,Be My Valentine! (Anti-Crisis Girl),English,Pop,Female,1,-,-,-,-,-,,-,-,-,-,12
+2009,Estonia,Urban Symphony,Randajad,Estonian,Ballad,Female,1,F Minor,124,72,69,64,6 dB,3,0,33,4,6
+2009,Netherlands,The Toppers,Shine,English,Pop,Male,3,-,-,-,-,-,,-,-,-,-,
+2009,France,Patricia Kaas,Et s'il fallait le faire,French,Ballad,Female,1,A Major,92,58,26,23,8 dB,55,0,90,8,8
+2009,Russia,Anastasiya Prikhodko,Mamo,"Russian, Ukrainian",Ballad,Female,1,D Minor,130,94,64,45,4 dB,41,0,26,5,11
+2009,Germany,Alex Swings Oscar Sings!,Miss Kiss Kiss Bang,English,Pop,Male,1,Bb Minor,136,89,62,56,4 dB,11,0,20,21,20
+2009,United Kingdom,Jade Ewen,It's My Time,English,Ballad,Female,1,E Major,105,31,30,12,14 dB,1,79,29,3,5
+2009,Spain,Soraya Arnelas,La noche es para mi,"Spanish, English",Dance,Female,1,F Minor,126,70,69,87,7 dB,1,73,14,3,24
